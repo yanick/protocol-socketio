@@ -14,7 +14,7 @@ Protocol::SocketIO - Socket.IO protocol implementation
 
 =head1 DESCRIPTION
 
-L<Protocol::SocketIO> is a set of modules that implement Socket.IO protocol
+L<Protocol::SocketIO> is a set of modules that implement Socket.IO protocol v0.*
 without depending on event loops, HTTP parsers and HTTP servers.
 
 =head1 SEE ALSO
